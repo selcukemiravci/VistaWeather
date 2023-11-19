@@ -1,0 +1,25 @@
+.container {
+  max-width: 1080px;
+  margin: 20px auto; /* Keeps the container centered horizontally */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  /* Add any additional styling that was originally in your .container class */
+}
+
+
+.search {
+  border: 2px solid black;
+  /* Adjust width and padding to match the original design */
+  width: 100%; /* Example: makes the search bar full width within the container */
+  padding: 10px; /* Example: adds more space inside the search bar */
+  margin-bottom: 20px; /* Example: adds space below the search bar */
+}
+
+.highlight {
+  background-color: #ffcc00; /* Yellow background for highlights */
+  padding: 2px 5px;
+  border-radius: 5px;
+  font-weight: bold;
+}

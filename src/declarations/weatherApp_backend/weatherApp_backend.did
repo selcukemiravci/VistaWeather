@@ -1,0 +1,11 @@
+type List = 
+ opt record {
+       text;
+       List;
+     };
+service : {
+  deleteHistory: () -> (List);
+  fetchList: () -> (List);
+  isAlreadySearch: (text) -> (bool);
+  put: (text) -> (text);
+}
