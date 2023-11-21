@@ -13,6 +13,8 @@ Welcome to VistaWeather, a decentralized application delivering real-time weathe
 
 ![ICWeather](https://github.com/selcukemiravci/VistaWeather/assets/53044008/49c05028-893c-47fa-b332-495141d3e7f1)
 
+![My Movie 3 (1)](https://github.com/selcukemiravci/VistaWeather/assets/53044008/a94c03e0-740c-4737-bca4-a6158b97b770)
+
 ## Background
 VistaWeather is crafted to be your go-to portal for the skies, enabling seamless searches and tracking of weather patterns. Whether planning your activities or indulging in a passion for meteorology, our application equips you with the necessary insights to remain abreast of the global climate.
 
