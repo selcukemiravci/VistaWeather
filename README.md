@@ -11,6 +11,8 @@
 ## Overview
 Welcome to VistaWeather, a decentralized application delivering real-time weather information for cities around the world. Immerse yourself in weather exploration and uncover current conditions with unmatched ease and accuracy.
 
+![ICWeather](https://github.com/selcukemiravci/VistaWeather/assets/53044008/49c05028-893c-47fa-b332-495141d3e7f1)
+
 ## Background
 VistaWeather is crafted to be your go-to portal for the skies, enabling seamless searches and tracking of weather patterns. Whether planning your activities or indulging in a passion for meteorology, our application equips you with the necessary insights to remain abreast of the global climate.
 
